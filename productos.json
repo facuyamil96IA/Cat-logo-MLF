@@ -1,1 +1,32 @@
 
+[
+    {
+        "id": 1,
+        "name": "Sofá Modular Gris",
+        "description": "Sofá modular con tapizado de alta calidad. Ideal para espacios modernos. Color gris ceniza.",
+        "price": "€1.200,00",
+        "image": "IMG-20250416-WA0047-removebg-preview.png"
+    },
+    {
+        "id": 2,
+        "name": "Mesa de Centro de Roble",
+        "description": "Mesa robusta de madera de roble maciza. Diseño simple y elegante para cualquier sala de estar.",
+        "price": "€450,00",
+        "image": "img/producto2.png"
+    },
+    {
+        "id": 3,
+        "name": "Sillón de Lectura",
+        "description": "Sillón ergonómico con tapizado de lino. Perfecto para un rincón de lectura cómodo y elegante.",
+        "price": "€750,00",
+        "image": "img/producto3.png"
+    },
+    {
+        "id": 4,
+        "name": "Estantería Industrial",
+        "description": "Estantería con estructura metálica y baldas de madera. Estilo industrial-chic para tus libros y decoración.",
+        "price": "€320,00",
+        "image": "img/producto4.png"
+    }
+]
+
